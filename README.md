@@ -1,3 +1,3 @@
-# cs201_data_structures_and_algorithms
+# Data Structures and Algorithms
 
 C++ programlama dilinde sorting algoritmaları üzerine çalışmalarım yer almakta.
